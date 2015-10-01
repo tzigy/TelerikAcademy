@@ -1,0 +1,1 @@
+D:\Tekerik\C#\Homeworks&Projects\CSharp_OOP\HW_03_ExtensionMethodsDelegatesLambdaLINQ\ExtensionMethods\bin\Debug\ExtensionMethods.exe.config
