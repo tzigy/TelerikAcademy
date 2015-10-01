@@ -1,0 +1,1 @@
+Every problem is in separate folder, where you can find the js file. Every js file has the solution + tests. You have only to execute the file.
