@@ -1,0 +1,277 @@
+﻿html, body, div, span,
+h1, h2, h3, h4, h5, h6, 
+p, a,  em, img,
+strong, tt, var,
+b, u, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+footer, header, hgroup, 
+menu, nav, section, summary{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+body {
+    margin: 20px;
+    font-family: Arial, Verdana, sans-serif;
+    font-size: 12px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+#outer-win {
+    width: 448px;
+    height: 430px;
+    border-radius: 10px;
+    background-color: #a5d0ec;
+}
+
+#outer-win > thead th {
+    padding: 0 8px 10px 10px;
+    height: 30px
+}
+
+#outer-win > thead th:first-child {
+    text-align: left;
+    vertical-align: middle;
+    background-image: url(images/calculator.gif);
+    background-repeat: no-repeat;
+    background-size: 14px 18px;
+    background-position-y: 5px ;
+    background-position-x: 10px;
+    padding-left: 30px;
+}
+
+#outer-win > thead th:last-child {
+    text-align: right;
+}
+
+
+#calc-option {
+    width: 432px;
+   height: 392px;
+   text-align: left;
+   color: #000;   
+   text-decoration: none;
+   border-color: #6e7f88;
+   border-width: 1px;
+   border-style: groove; 
+   margin: 0 8px 8px 8px;
+    background-color: #dae5f0;
+}
+
+#calc-option > thead tr{
+    height: 23px;
+    background-image: url(images/options-background.png);
+    background-repeat: repeat-x;    
+}
+
+#calc-option > thead > tr > th ul{
+    border-bottom: 1px solid #c4c6cd;
+
+}
+  
+#calc-option ul{
+    list-style-type: none;    
+}
+
+#calc-option ul li{
+    display: inline-block;   
+    padding: 6px 0 5px 0;
+    margin: 0 10px;    
+}
+
+
+#calc-option ul li:first-letter{
+    text-decoration: underline;
+}
+
+
+#inside-calc > tbody > tr > td{
+    padding: 10px 10px 5px 10px;
+}
+
+
+#display {
+    width: 390px;
+    height: 35px;
+    border: 1px solid #899aa6;
+    border-radius: 5px;
+    text-align: right;
+    padding: 20px 10px 0 10px;
+    
+    font-size: 24px;
+}
+
+#bin-represent{
+     width: 411px;
+     height: 65px;
+     color: #66625c;     
+     }
+
+#bin-represent td{
+    padding: 0 10px 0 10px; 
+}
+
+#bin-represent tr:nth-child(2n+1){
+    color: #3987b5;
+}
+
+#bor{
+    border: 1px solid #899aa6;
+    border-radius: 5px;
+}
+
+#calc-all-buttons {
+    width: 411px;
+     height: 208px;     
+}
+
+#calc-all-buttons td {
+    padding: 2px;
+}
+/*
+#calc-all-buttons input[type=button]{
+    width: 35px;
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+}*/
+
+.main-radio {        
+    border: 1px solid #899aa6;
+    border-radius: 5px;
+    width: 70px;
+    height: 97px;            
+}
+    .main-radio p {
+        margin: 2px 0 0 5px;
+    }
+
+input[type=button]{
+    width: 37px;
+    height: 30px;
+    background-color: #dae5f0;
+    text-align: center;
+    vertical-align: middle;
+    font-size: 1em;
+    border: 1px groove #879aa7;
+    border-radius: 3px;
+}
+
+.background-gradient{
+    background-image: url(images/button-background.png);
+    background-repeat: repeat-x;    
+}
+
+input[type=button]:hover.background-gradient{
+    background-color: #879aa7;
+    background-image: url(images/button-background-hoover.png);
+    border: 1px groove #ffe35d;
+    border-radius: 3px;
+}
+
+#button-widther input[type=button]{
+    width: 80px;
+}
+
+#button-heighter input[type=button]{
+    vertical-align: -18px;
+    height: 63px;
+    margin-left: 2px;
+}
+#button-heighter input[type=button]:hover {
+    background-color: #879aa7;
+    background-image: url(images/button-background-hoover-big.png) ;
+    border: 1px groove #ffe35d;
+    border-radius: 3px;
+}
+/*
+body {
+    margin: 20px;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 12px;
+}
+
+table {
+    border-collapse:collapse; 
+}
+
+#calc {
+    width: 460px;
+    height: 450px;
+    background-color: #B9E0FB;
+    border-radius: 10px;
+    
+    
+}
+
+#calc > thead > tr > th {
+    text-align: left;
+    padding: 10px 0 10px 20px;
+}
+
+#calc > tbody > tr > td {
+    padding: 10px;
+}
+
+#calc-menu {    
+    width: 100%;
+    height: 100%;
+    border: 1px solid black;
+    background-color: #DAE5F0;
+}
+
+#inside-calc {
+    width: 100%;
+}
+
+#screen {
+    padding: 10px 15px 10px 10px;
+}
+
+#screen > input[type=text] {
+    width: 100%;
+    height: 40px;
+}
+
+#numbers {    
+    margin: 10px;
+    width: 93%;
+    border: 1px solid black;
+}
+
+#numbers td{
+    padding: 2px 10px 0 10px;
+}
+
+#main-part-buttons {
+    width: 95%;
+    margin: 10px;    
+}
+
+#main-part-buttons td {
+    padding: 2px;
+}
+
+#main-part-buttons td input[type=button] {
+    width: 35px;
+    height: 30px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+.main-radio {
+    width: 64px;
+    height: 100px;
+    border: 1px solid #000;
+    border-radius: 5px;
+    vertical-align: middle;  
+}*/

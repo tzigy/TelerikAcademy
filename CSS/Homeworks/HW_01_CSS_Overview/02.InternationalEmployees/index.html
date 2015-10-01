@@ -1,0 +1,73 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>International Employees</title>
+    <link href="styles/main.css" rel="stylesheet" />
+</head>
+<body>
+    <form>
+        <table>
+            <colgroup>
+                <col class="width-wider" />
+                <col class="width-normal" />
+                <col class="width-wider" />
+                <col class="width-normal" />
+            </colgroup>
+            <thead>
+                <tr>
+                    <th>Contact name</th>
+                    <th>City</th>
+                    <th>Country</th>
+                    <th>Is Promoted</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr >
+                    <td>Maria Anders</td>
+                    <td>Berlin</td>
+                    <td class="flag de">
+                        <!--img class="flag"  src="images/flag_of_Germany.gif" alt="Flag of Germany"/-->
+                        <span>Germany</span>
+                    </td>
+                    <td>
+                        <input type="checkbox" name="IsPromoted" disabled="disabled" />
+                    </td>
+                </tr>
+                <tr >
+                    <td>Anna Trijillo</td>
+                    <td>Mexico D.F.</td>
+                    <td class="flag mex">
+                        <!--<img class="flag" src="images/flag_of_Mexico.gif" alt="Flag of Mexico" />-->
+                        Mexico
+                    </td>
+                    <td>
+                        <input type="checkbox" name="IsPromoted" />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Antonio Moreno</td>
+                    <td>Mexico D.F.</td>
+                    <td class="flag mex">
+                        <!--img class="flag" src="images/flag_of_Mexico.gif" alt="Flag of Mexico" /-->
+                        Mexico
+                    </td>
+                    <td>
+                        <input type="checkbox" name="IsPromoted" checked />
+                    </td>
+                </tr>
+                <tr>
+                    <td>Tomas Hardy</td>
+                    <td>London</td>
+                    <td class="flag uk">
+                        <!--img class="flag" src="images/flag_of_UK.gif" alt="Flag of United Kingdom" /-->
+                        UK
+                    </td>
+                    <td>
+                        <input type="checkbox" name="IsPromoted" />
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </form>
+</body>
+</html>

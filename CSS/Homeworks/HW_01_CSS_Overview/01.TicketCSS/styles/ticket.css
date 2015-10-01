@@ -1,0 +1,85 @@
+﻿html, body, div, span,
+h1, h2, h3, h4, h5, h6, 
+p, a,  em, img,
+strong, tt, var,
+b, u, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+footer, header, hgroup, 
+menu, nav, section, summary{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+body {
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 14px;   
+}
+
+table {    
+    background-color: #5B5656;
+    color: #A7AFAA;
+}
+
+th, td {
+    padding: 5px;
+    vertical-align: top;
+    text-align: left;
+}
+
+th {    
+    font-size: 1.1em;     
+}
+
+td {    
+    font-size: 0.8em;
+}
+
+tr td:first-child {
+    color: #FFF;
+    font-style: italic;    
+}
+
+a {
+    text-decoration: none;
+    color: #FFF2B2;
+}
+
+
+ul {   
+    list-style-type: none;
+    list-style-position: inside;    
+}
+
+ul li:before {
+    content: "";
+    line-height: 1em;
+    width: 0.9em;
+    height: 0.9em;
+    background-color: #71B47A;
+    float: left;
+    margin: 0.05em .3em 0.05em 0;    
+    border-radius: 50%;
+}
+
+.text-red {
+    color: red;
+}
+
+.text-orange {
+    color: #E66C1D;
+}
+
+col.first {
+    width: 120px;
+}
+
+col.second {
+    width: 180px;
+}
+

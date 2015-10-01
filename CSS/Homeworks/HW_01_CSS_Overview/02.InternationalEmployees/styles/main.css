@@ -1,0 +1,87 @@
+﻿html, body, div, span,
+h1, p, a,  em, img,
+strong, sub, sup, tt, var,
+b, u, i,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, section, summary{
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+body {
+    margin: 10px;
+    font-family: Verdana, Arial, sans-serif;
+    font-size: 12px;
+    font-weight: normal;
+    color: #000;  
+    text-align: left;
+    vertical-align: middle;  
+}
+
+table {
+    border-collapse: collapse;
+}
+
+thead {    
+    background-color: #5ABE06;
+    color: #FFF;        
+}
+
+th {
+    padding: 5px;  
+    border-bottom: 2px inset lightgrey;        
+}
+
+td {
+    padding: 2px 5px 2px 5px;   
+    vertical-align: middle;    
+}
+
+tbody>tr:nth-child(even) {
+    background-color: #d9d6d6;
+}
+col{
+    border-left: 2px inset lightgrey;
+    border-bottom: 2px outset lightgrey;
+}
+
+col:first-of-type {
+    border-left: 0;
+}
+
+.width-normal {
+    width: 120px;
+}
+
+.width-wider {
+    width: 160px;
+}
+
+.flag {    
+    background-image: url('/images/flag_of_Germany.gif');
+    background-repeat: no-repeat;
+    background-size: 23px 16px;
+    background-position-y:center;
+    background-position-x: 5px;
+    padding-left: 35px;
+}
+
+.de {    
+    background-image: url('/images/flag_of_Germany.gif');    
+}
+
+.mex {    
+    background-image: url('/images/flag_of_Mexico.gif');    
+}
+
+.uk {    
+    background-image: url('/images/flag_of_UK.gif');        
+}
