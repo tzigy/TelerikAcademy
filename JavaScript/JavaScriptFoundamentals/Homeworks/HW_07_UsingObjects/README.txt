@@ -1,1 +1,0 @@
-Every problem is in different folder, where you will see .js file. You need only to test with node.js or browsers colsole. Tests are includet in every file.

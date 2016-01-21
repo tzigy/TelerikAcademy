@@ -1,1 +1,0 @@
-Every task is in different folder. You will find single .js file with the sollution and some tests. It is enought to test with node.js or with the browser console.
