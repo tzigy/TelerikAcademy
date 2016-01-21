@@ -1,0 +1,1 @@
+I put all my solutions in one .js file. You can test it with node.js or browsers console. All tests are includet.
