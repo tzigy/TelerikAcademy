@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericClass", "GenericClass\GenericClass.csproj", "{207FCB2C-BC33-4755-AD0D-99E9996AB2ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassMatrix", "Matrix\ClassMatrix.csproj", "{395BB66A-1568-4A0A-8217-A16B73DC9ACF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EuclidianSpace", "EuclidianSpace\EuclidianSpace.csproj", "{96557F05-759A-410D-AEA9-3209C1B98853}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{207FCB2C-BC33-4755-AD0D-99E9996AB2ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207FCB2C-BC33-4755-AD0D-99E9996AB2ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207FCB2C-BC33-4755-AD0D-99E9996AB2ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207FCB2C-BC33-4755-AD0D-99E9996AB2ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{395BB66A-1568-4A0A-8217-A16B73DC9ACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{395BB66A-1568-4A0A-8217-A16B73DC9ACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{395BB66A-1568-4A0A-8217-A16B73DC9ACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{395BB66A-1568-4A0A-8217-A16B73DC9ACF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96557F05-759A-410D-AEA9-3209C1B98853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96557F05-759A-410D-AEA9-3209C1B98853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96557F05-759A-410D-AEA9-3209C1B98853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96557F05-759A-410D-AEA9-3209C1B98853}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
