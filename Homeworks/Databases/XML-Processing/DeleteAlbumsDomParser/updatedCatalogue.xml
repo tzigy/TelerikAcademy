@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+  <album>
+    <name>Evil Empire</name>
+    <artist>Rage Against The Machine</artist>
+    <year>1996</year>
+    <producer>RATM</producer>
+    <price>10.99</price>
+    <songs>
+      <song>
+        <title>People Of The Sun</title>
+        <duration>4.20</duration>
+      </song>
+      <song>
+        <title>Bulls On The Parade</title>
+        <duration>5.50</duration>
+      </song>
+      <song>
+        <title>Without A Face</title>
+        <duration>4.50</duration>
+      </song>
+      <song>
+        <title>Tire Me</title>
+        <duration>4.30</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Stranger Than Fiction</name>
+    <artist>Bad Religion</artist>
+    <year>1994</year>
+    <producer>BR</producer>
+    <price>20.99</price>
+    <songs>
+      <song>
+        <title>Incomplete</title>
+        <duration>2.38</duration>
+      </song>
+      <song>
+        <title>Leave Mine To Me</title>
+        <duration>2.07</duration>
+      </song>
+      <song>
+        <title>Stranger Than Fiction</title>
+        <duration>2.20</duration>
+      </song>
+      <song>
+        <title>Better Off Dead</title>
+        <duration>3.30</duration>
+      </song>
+      <song>
+        <title>Television</title>
+        <duration>2.03</duration>
+      </song>
+      <song>
+        <title>Inner Logic</title>
+        <duration>2.58</duration>
+      </song>
+    </songs>
+  </album>
+</catalog>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="style.xslt" ?>
+<students>
+  <student xmlns:students="urn:telerik-academy:databases">
+    <name>Ivan Ivanov</name>
+    <gender>male</gender>
+    <birth-date>1992-07-24</birth-date>
+    <phone>+359888254565</phone>
+    <email>iivanov@uni.bg</email>
+    <course>2</course>
+    <specialty>Software Engineer</specialty>
+    <faculty-number>200601</faculty-number>
+    <taken-exams>
+      <exam>
+        <name>C# Part1</name>
+        <tutor>N. Kostov</tutor>
+        <score>5.5</score>
+      </exam>
+      <exam>
+        <name>C# OOP</name>
+        <tutor>D. Minkov</tutor>
+        <score>5</score>
+      </exam>
+      <exam>
+        <name>JS Fundamentals</name>
+        <tutor>E. Hristov</tutor>
+        <score>6</score>
+      </exam>
+    </taken-exams>    
+  </student>
+  <student>
+    <name>Ivanka Stoianova</name>
+    <gender>female</gender>
+    <birth-date>1996-03-28</birth-date>
+    <phone>+359888245758</phone>
+    <email>istoianova@uni.bg</email>
+    <course>1</course>
+    <specialty>QA</specialty>
+    <faculty-number>200801</faculty-number>
+    <taken-exams>
+      <exam>
+        <name>C# OOP</name>
+        <tutor>D. Minkov</tutor>
+        <score>5.5</score>
+      </exam>
+      <exam>
+        <name>High Quality Code</name>
+        <tutor>N. Kostov</tutor>
+        <score>5</score>
+      </exam>      
+    </taken-exams>
+  </student>
+</students>

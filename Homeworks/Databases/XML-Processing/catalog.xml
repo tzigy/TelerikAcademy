@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<catalog>
+  <album>
+    <name>Master Of Puppets</name>
+    <artist>Metallica</artist>
+    <year>1986</year>
+    <producer>Metallica with Flemming Rasmussen</producer>
+    <price>11.98</price>
+    <songs>
+      <song>
+        <title>Battery</title>
+        <duration>1.30</duration>
+      </song>
+      <song>
+        <title>Master of Puppets</title>
+        <duration>3.50</duration>
+      </song>
+      <song>
+        <title>The Thing That Should Not Be</title>
+        <duration>4.20</duration>
+      </song>
+      <song>
+        <title>Welcome Home (Sanitarium)</title>
+        <duration>4.05</duration>
+      </song>
+      <song>
+        <title>Disposable Heroes</title>
+        <duration>5.10</duration>
+      </song>
+      <song>
+        <title>Leper Messiah</title>
+        <duration>3.40</duration>
+      </song>
+      <song>
+        <title>Orion</title>
+        <duration>4.30</duration>
+      </song>
+      <song>
+        <title>Damage, Inc.</title>
+        <duration>4.40</duration>
+      </song>      
+    </songs>
+  </album>
+  <album>
+    <name>Evil Empire</name>
+    <artist>Rage Against The Machine</artist>
+    <year>1996</year>
+    <producer>RATM</producer>
+    <price>10.99</price>
+    <songs>
+      <song>
+        <title>People Of The Sun</title>
+        <duration>4.20</duration>
+      </song>
+      <song>
+        <title>Bulls On The Parade</title>
+        <duration>5.50</duration>
+      </song>
+      <song>
+        <title>Without A Face</title>
+        <duration>4.50</duration>
+      </song>
+      <song>
+        <title>Tire Me</title>
+        <duration>4.30</duration>
+      </song>      
+    </songs>
+  </album>
+  <album>
+    <name>Smash</name>
+    <artist>Offspring</artist>
+    <year>1994</year>
+    <producer>Epitaph Records</producer>
+    <price>16.99</price>
+    <songs>
+      <song>
+        <title>Epitaph Records</title>
+        <duration>4.30</duration>
+      </song>
+      <song>
+        <title>Bad Habit</title>
+        <duration>5.20</duration>
+      </song>
+      <song>
+        <title>Self Esteem</title>
+        <duration>4.30</duration>
+      </song>
+      <song>
+        <title>Smash</title>
+        <duration>3.50</duration>
+      </song>
+      <song>
+        <title>Come Out And Play</title>
+        <duration>3.50</duration>
+      </song>
+    </songs>
+  </album>
+  <album>
+    <name>Stranger Than Fiction</name>
+    <artist>Bad Religion</artist>
+    <year>1994</year>
+    <producer>BR</producer>
+    <price>20.99</price>
+    <songs>
+      <song>
+        <title>Incomplete</title>
+        <duration>2.38</duration>
+      </song>
+      <song>
+        <title>Leave Mine To Me</title>
+        <duration>2.07</duration>
+      </song>
+      <song>
+        <title>Stranger Than Fiction</title>
+        <duration>2.20</duration>
+      </song>
+      <song>
+        <title>Better Off Dead</title>
+        <duration>3.30</duration>
+      </song>
+      <song>
+        <title>Television</title>
+        <duration>2.03</duration>
+      </song>
+      <song>
+        <title>Inner Logic</title>
+        <duration>2.58</duration>
+      </song>
+    </songs>
+  </album> 
+</catalog>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<albums>
+  <album>
+    <name>Master Of Puppets</name>
+    <artist>Metallica</artist>
+  </album>
+  <album>
+    <name>Evil Empire</name>
+    <artist>Rage Against The Machine</artist>
+  </album>
+  <album>
+    <name>Smash</name>
+    <artist>Offspring</artist>
+  </album>
+  <album>
+    <name>Stranger Than Fiction</name>
+    <artist>Bad Religion</artist>
+  </album>
+</albums>
