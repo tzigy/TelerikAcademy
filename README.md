@@ -3,7 +3,7 @@ Telerik Academy 2015/2016
 
 | C# Programming          | Web Design and UI                   | Software Technologies             |
 |:-----------------------:|:-----------------------------------:|:---------------------------------:|
-| [C# Part 1](#c-part-1)  | [HTML](#html)                       | [DB](#db)                         |
+| [C# Part 1](#c-part-1)  | [HTML](#html)                       | [DB](#databases)                  |
 | [C# Part 2](#c-part-2)  | [CSS](#css)                         | [WEB-SERVICES](#web-services)     |
 | [C# OOP](#c-oop)        | [JS Fundamentals](#js-fundamentals) |                                   |
 | [HQC](#hqc)             | [JS OOP](#js-oop)                   |                                   |
@@ -13,7 +13,7 @@ Telerik Academy 2015/2016
 
 ---
 
-###### [C# Part 1]
+###### C# Part 1
 * Intro to Programming
 * Primitive Data Types and Variables
 * Operators and Expressions
@@ -25,15 +25,15 @@ Telerik Academy 2015/2016
 
 ---
 
-###### [C# Part 2](Homeworks/C%232)
-* [Arrays](Homeworks/C%232/Arrays)
-* [Multidimensional Arrays](Homeworks/C%232/Matrices)
-* [Methods](Homeworks/C%232/Methods)
-* [Numeral Systems](Homeworks/C%232/Numeral-Systems)
-* [Classes and Objects](Homeworks/C%232/Classes-And-Objects)
-* [Strings and Text Processing](Homeworks/C%232/Strings-And-Text-Processing)
-* [Exception Handling](Homeworks/C%232/Exception-Handling)
-* [Text Files](Homeworks/C%232/Text-Files)
+###### C# Part 2
+* Arrays
+* Multidimensional Arrays
+* Methods
+* Numeral Systems
+* Classes and Objects
+* Strings and Text Processing
+* Exception Handling
+* Text Files
 
 [*Go to top* ^](#telerikacademy)
 
@@ -51,61 +51,100 @@ Telerik Academy 2015/2016
 
 ---
 
+###### [High Quality Code][HQC](Homeworks/High%20Quality%20Code)
+* [Code Formatting](Homeworks/High%20Quality%20Code/02.%20Code%20Formatting)
+* [Naming Identifiers](Homeworks/High%20Quality%20Code/03.%20Naming%20Identifiers)
+* [Code Documentation and Comments](Homeworks/High%20Quality%20Code/04.%20Code%20Documentation%20and%20Comments)
+* [Using Variables and Constants](Homeworks/High%20Quality%20Code/05.%20Variables%2C%20Data%2C%20Expressions%20and%20Constants)
+* [Conditional Statements and Loops](Homeworks/High%20Quality%20Code/06.%20Control%20Flow%2C%20Conditional%20Statements%20and%20Loops)
+* [High Quality Methods](Homeworks/High%20Quality%20Code/07.%20High-quality%20Methods)
+* [High Quality Classes](Homeworks/High%20Quality%20Code/08.%20High-quality%20Classes)
+* [Assertions and Exceptions](Homeworks/High%20Quality%20Code/09.%20Defensive%20Programming%20and%20Exceptions)
+* [Code Tuning and Optimization](Homeworks/High%20Quality%20Code/10.%20Code%20Tuning%20and%20Optimization)
+* [Unit Testing](Homeworks/High%20Quality%20Code/11.%20Unit%20Testing)
+* Test Driven Development
+* Refactoring
+* Development Tools
+* Creational Design Patterns
+* Structural Design Patterns
+* Behavioral Design Patterns
+
+[*Go to top* ^](#telerikacademy)
+
+---
+
+###### [Data Structures and Algorithms](Homeworks/Data%20Structures%20and%20Algorithms)
+* [Data-Structures-Algorithms-and-Complexity](Homeworks/Data%20Structures%20and%20Algorithms/01.%20Data-Structures-Algorithms-and-Complexity)
+* [Linear Data Structures](Homeworks/Data%20Structures%20and%20Algorithms/02.%20Linear-Data-Structures)
+* [Trees and Traversals](Homeworks/Data%20Structures%20and%20Algorithms/03.%20Trees-and-Traversals)
+* [Dictionaries, Hash Tables, and Sets](Homeworks/Data%20Structures%20and%20Algorithms/04.%20Dictionaries-Hash-Tables-and-Sets)
+* [Advanced Data Structures](Homeworks/Data%20Structures%20and%20Algorithms/05.%20Advanced-Data-Structures)
+* [Data Structures Efficiency](Homeworks/Data%20Structures%20and%20Algorithms/06.%20Data-Structure-Efficiency)
+* [Recursion](Homeworks/Data%20Structures%20and%20Algorithms/07.%20Recursion)
+* Combinatorics
+* Sorting and Searching Algorithms
+* Dynamic Programming
+* Graph Algorithms
+
+[*Go to top* ^](#telerikacademy)
+
+---
+
 ###### [HTML](Homeworks/HTML)
-* [HTML Fundamentals](Homeworks/HTML/HTML-Fundamentals)
-* [Tables](Homeworks/HTML/HTML-Tables)
-* [Forms](Homeworks/HTML/HTML-Forms)
-* [Semantic HTML](Homeworks/HTML/HTML-Semantic)
+* [HTML Fundamentals](Homeworks/HTML/HW_01_HTMLFundamentals)
+* [Tables](Homeworks/HTML/HW_02_HTMLTables)
+* [Forms](Homeworks/HTML/HW_03_HTMLFormsAndFrames)
+* [Semantic HTML](Homeworks/HTML/HW_04_SemanticHTML)
 
 [*Go to top* ^](#telerikacademy)
 
 ---
 
 ###### [CSS](Homeworks/CSS)
-* [CSS Overview](Homeworks/CSS/CSS-Overview)
-* [CSS Presentation](Homeworks/CSS/CSS-Presentation)
-* [CSS Layout](Homeworks/CSS/CSS-Layout)
-* [CSS Preprocessors](Homeworks/CSS/CSS-Processors)
+* [CSS Overview](Homeworks/CSS/HW_01_CSS_Overview)
+* [CSS Presentation](Homeworks/CSS/HW_02_CSS_Presentation)
+* [CSS Layout](Homeworks/CSS/HW_03_CSS_Layout)
+* [CSS Preprocessors](Homeworks/CSS/HW_04_CSS_LESS)
 
 [*Go to top* ^](#telerikacademy)
 
 ---
 
-###### [JS Fundamentals](Homeworks/JS-FUNDAMENTALS)
-* [Data Types and Variables](Homeworks/JS-FUNDAMENTALS/Data-Types-And-Variables)
-* [Operators and Expressions](Homeworks/JS-FUNDAMENTALS/Operators-And-Expressions)
-* [Conditional Statements](Homeworks/JS-FUNDAMENTALS/Conditional-Statements)
-* [Loops](Homeworks/JS-FUNDAMENTALS/Loops)
-* [Arrays](Homeworks/JS-FUNDAMENTALS/Arrays)
-* [Functions](Homeworks/JS-FUNDAMENTALS/Functions)
-* [Using Objects](Homeworks/JS-FUNDAMENTALS/Using-Objects)
-* [Array Methods](Homeworks/JS-FUNDAMENTALS/Array-Methods)
-* [Strings](Homeworks/JS-FUNDAMENTALS/Strings)
-* [Regular Expressions](Homeworks/JS-FUNDAMENTALS/Regular-Expressions)
+###### [JS Fundamentals](Homeworks/JS-Fundamentals)
+* Data Types and Variables
+* [Operators and Expressions](Homeworks/JS-Fundamentals/HW_02_OperatorsAndExpressions)
+* [Conditional Statements](Homeworks/JS-Fundamentals/HW_03_ConditionalStatements)
+* [Loops](Homeworks/JS-Fundamentals/HW_04_Loops)
+* [Arrays](Homeworks/JS-Fundamentals/HW_05_Arrays)
+* [Functions](Homeworks/JS-Fundamentals/HW_06_Functions)
+* [Using Objects](Homeworks/JS-Fundamentals/HW_07_UsingObjects)
+* [Array Methods](Homeworks/JS-Fundamentals/HW_08_ArrayMethods)
+* [Strings](Homeworks/JS-Fundamentals/HW_09_Strings)
+* [Regular Expressions](Homeworks/JS-Fundamentals/HW_10_RegularExpressions)
 
 [*Go to top* ^](#telerikacademy)
 
 ---
 
 ###### [JS OOP](Homeworks/JS-OOP)
-* [Functions and Function Expressions](Homeworks/JS-OOP/Functions-And-Function-Expressions)
-* [Closures and Scope](Homeworks/JS-OOP/Scopes-and-Closure)
-* [Classical Inheritance](Homeworks/JS-OOP/Classical-Inheritance)
-* [Prototype-based inheritance](Homeworks/JS-OOP/Prototypal-Inheritance)
-* [Modules and Patterns](Homeworks/JS-OOP/Modules-And-Patterns)
+* [Functions and Function Expressions](Homeworks/JS-OOP/Functions%20And%20Function%20Expressions)
+* [Closures and Scope](Homeworks/JS-OOP/Scopes%20and%20Closures)
+* [Classical Inheritance](Homeworks/JS-OOP/Classical%20Inheritance)
+* [Prototype-based inheritance](Homeworks/JS-OOP/Prototypal%20Inheritance)
+* [Modules and Patterns](Homeworks/JS-OOP/Modules%20and%20Patterns)
 
 [*Go to top* ^](#telerikacademy)
 
 ---
 
 ###### [JS UI&DOM](Homeworks/JS-UI%26DOM)
-* [Canvas](Homeworks/JS-UI%26DOM/Canvas)
-* [DOM](Homeworks/JS-UI%26DOM/Document-Object-Model)
-* [DOM Operations](Homeworks/JS-UI%26DOM/DOM-Operations)
-* [Event Model](Homeworks/JS-UI%26DOM/Event-Model)
-* [jQuery Overview](Homeworks/JS-UI%26DOM/jQuery-Overview)
-* [jQuery Plugins](Homeworks/JS-UI%26DOM/jQuery-Plugins)
-* [HTML Templates](Homeworks/JS-UI%26DOM/HTML-Templates)
+* Canvas
+* DOM
+* [DOM Operations](Homeworks/JS-UI%26DOM/DOM%20Operations)
+* [Event Model](Homeworks/JS-UI%26DOM/Event%20Model)
+* [jQuery Overview](Homeworks/JS-UI%26DOM/jQuery%20Overview)
+* [jQuery Plugins](Homeworks/JS-UI%26DOM/jQuery%20Plugins)
+* [HTML Templates](Homeworks/JS-UI%26DOM/HTML%20Templates)
 
 [*Go to top* ^](#telerikacademy)
 
@@ -116,39 +155,24 @@ Telerik Academy 2015/2016
 
 [*Go to top* ^](#telerikacademy)
 
----
-
-###### [HQC](Homeworks/HQC)
-* [Code Formatting](Homeworks/HQC/Code-Formatting)
-* [Naming Identifiers](Homeworks/HQC/Naming-Identifiers)
-* [Code Documentation and Comments](Homeworks/HQC/Code-Documentation-And-Comments)
-* [Using Variables and Constants](Homeworks/HQC/Using-Variables-And-Constants)
-* [Conditional Statements and Loops](Homeworks/HQC/Conditional-Statements-And-Loops)
-* [High Quality Methods](Homeworks/HQC/High-Quality-Methods)
-* [High Quality Classes](Homeworks/HQC/High-Quality-Classes)
-* [Assertions and Exceptions](Homeworks/HQC/Assertions-And-Exceptions)
-* [Code Tuning and Optimization](Homeworks/HQC/Code-Tuning-And-Optimization)
-* [Unit Testing](Homeworks/HQC/Unit-Testing)
-* [Test Driven Development](Homeworks/HQC/Test-Driven-Development)
-* [Refactoring](Homeworks/HQC/Refactoring)
-* [Development Tools](Homeworks/HQC/Development-Tools)
-* [Creational Design Patterns](Homeworks/HQC/Creational-Patterns)
-* [Structural Design Patterns](Homeworks/HQC/Structural-Patterns)
-* [Behavioral Design Patterns](Homeworks/HQC/Behavioral-Patterns)
-
-[*Go to top* ^](#telerikacademy)
-
 
 ---
 
-###### [DB](Homeworks/DB)
-* [XML Basics](Homeworks/DB/XML-Basics)
-* [XML Parsers](Homeworks/DB/XML-Parsers)
-* [JSON Processing](Homeworks/DB/JSON-Processing)
-* [SQL Server And MySQL - Introduction](Homeworks/DB/SQL-Server-And-MySQL-Introduction)
-* [Database Modeling](Homeworks/DB/Database-Modeling)
+###### [Databases](Homeworks/Databases)
+* [XML Basics](Homeworks/Databases/XML-Basics)
+* [XML Parsers](Homeworks/Databases/XML-Processing)
+* [JSON Processing](Homeworks/Databases/JSON-Processing)
+* [SQL Server And MySQL - Introduction](Homeworks/Databases/DBS%20-%20Overview)
+* [Database Modeling](Homeworks/Databases/DB-Modelling)
 * [SQL Intro](Homeworks/DB/SQL-Intro)
-* [SQL Advanced](Homeworks/DB/SQL-Advanced)
+* [SQL Advanced](Homeworks/Databases/Advanced%20SQL)
+* [Transact-SQL](Homeworks/Databases/TransactSQL)
+* [ADO.NET](Homeworks/Databases/ADO.NET)
+* [Entity Framework](Homeworks/Databases/EntityFramework)
+* Entity Framework Performance
+* Entity Framework Code First
+* Database Performance
+* Database Transactions Concepts
 
 [*Go to top* ^](#telerikacademy)
 
@@ -160,21 +184,5 @@ Telerik Academy 2015/2016
 
 [*Go to top* ^](#telerikacademy)
 
----
-
-###### [DSA](Homeworks/DSA)
-* [Data-Structures-Algorithms-and-Complexity](Homeworks/DSA/Data-Structures-Algorithms-and-Complexity)
-* [Linear Data Structures](Homeworks/DSA/Linear-Data-Structures)
-* [Trees and Traversals](Homeworks/DSA/Trees-and-Traversals)
-* [Dictionaries, Hash Tables, and Sets](Homeworks/DSA/Dictionaries-Hash-Tables-and-Sets)
-* [Advanced Data Structures](Homeworks/DSA/Advanced-Data-Structures)
-* [Data Structures Efficiency](Homeworks/DSA/Data-Structure-Efficiency)
-* [Recursion](Homeworks/DSA/Recursion)
-* [Combinatorics](Homeworks/DSA/Combinatorics)
-* [Sorting and Searching Algorithms](Homeworks/DSA/Sorting-and-Searching-Algorithms)
-* [Dynamic Programming](Homeworks/DSA/Dynamic-Programming)
-* [Graph Algorithms](Homeworks/DSA/Graph-Algorithms)
-
-[*Go to top* ^](#telerikacademy)
 
 ---
