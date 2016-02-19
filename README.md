@@ -13,13 +13,13 @@ Telerik Academy 2015/2016
 
 ---
 
-###### [C# Part 1](Homeworks/C%231)
+###### [C# Part 1]
 * Intro to Programming
 * Primitive Data Types and Variables
-* [Operators and Expressions](Homeworks/C%231/Operators-And-Expressions)
-* [Conditional Statements](Homeworks/C%231/Conditional-Statements)
-* [Loops](Homeworks/C%231/Loops)
-* [Console Input/Output](Homeworks/C%231/Console-Input-Output)
+* Operators and Expressions
+* Conditional Statements
+* Loops
+* Console Input/Output
 
 [*Go to top* ^](#telerikacademy)
 
@@ -39,13 +39,13 @@ Telerik Academy 2015/2016
 
 ---
 
-###### [C# OOP](Homeworks/OOP)
-* [Defining Classes - Part 1](Homeworks/OOP/Defining-Classes-FP)
-* [Defining Classes - Part 2](Homeworks/OOP/Defining-Classes-SP)
-* [Extension Methods and LINQ](Homeworks/OOP/Extension-Methods-And-LINQ)
-* [OOP Fundamental Principles - Part 1](Homeworks/OOP/OOP-Fundamental-Principles-FP)
-* [OOP Fundamental Principles - Part 2](Homeworks/OOP/OOP-Fundamental-Principles-SP)
-* [Common Type System](Homeworks/OOP/Common-Type-System)
+###### [C# OOP](Homeworks/C%23-OOP)
+* [Defining Classes - Part 1](Homeworks/C%23-OOP/HW_01_DefiningClassesPart1)
+* [Defining Classes - Part 2](Homeworks/C%23-OOP/HW_02_DefiningClassesPart2)
+* [Extension Methods and LINQ](Homeworks/C%23-OOP/HW_03_ExtensionMethodsDelegatesLambdaLINQ)
+* [OOP Fundamental Principles - Part 1](Homeworks/C%23-OOP/HW_04_OOP_Principles%20_Part1)
+* [OOP Fundamental Principles - Part 2](Homeworks/C%23-OOP/HW_05_OPP_Principles_Part2)
+* [Common Type System](Homeworks/C%23-OOP/HW_06_CommonTypeSystem)
 
 [*Go to top* ^](#telerikacademy)
 
