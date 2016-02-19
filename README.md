@@ -51,7 +51,7 @@ Telerik Academy 2015/2016
 
 ---
 
-###### [High Quality Code][HQC](Homeworks/High%20Quality%20Code)
+###### [HQC](Homeworks/High%20Quality%20Code)
 * [Code Formatting](Homeworks/High%20Quality%20Code/02.%20Code%20Formatting)
 * [Naming Identifiers](Homeworks/High%20Quality%20Code/03.%20Naming%20Identifiers)
 * [Code Documentation and Comments](Homeworks/High%20Quality%20Code/04.%20Code%20Documentation%20and%20Comments)
@@ -73,7 +73,7 @@ Telerik Academy 2015/2016
 
 ---
 
-###### [Data Structures and Algorithms](Homeworks/Data%20Structures%20and%20Algorithms)
+###### [DSA](Homeworks/Data%20Structures%20and%20Algorithms)
 * [Data-Structures-Algorithms-and-Complexity](Homeworks/Data%20Structures%20and%20Algorithms/01.%20Data-Structures-Algorithms-and-Complexity)
 * [Linear Data Structures](Homeworks/Data%20Structures%20and%20Algorithms/02.%20Linear-Data-Structures)
 * [Trees and Traversals](Homeworks/Data%20Structures%20and%20Algorithms/03.%20Trees-and-Traversals)
